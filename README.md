@@ -11,6 +11,7 @@ The four Bell states are:
 |\Phi^-\rangle = \frac{1}{\sqrt{2}} (|00\rangle - |11\rangle)
 |\Psi^+\rangle = \frac{1}{\sqrt{2}} (|01\rangle + |10\rangle)
 |\Psi^-\rangle = \frac{1}{\sqrt{2}} (|01\rangle - |10\rangle)
+```
 
 
 These states are used extensively in quantum information theory and quantum computing because of their entanglement properties.
